@@ -6,7 +6,7 @@ The WinAdmins are a society of engineers interested in discussion, community, an
 
 ## How do I join?
 
-To join the WinAdmins Chat, simply click on the invitation link below. If you do not already have a Discord account, you will need to create one to continue.
+To join the WinAdmins Chat click on the invitation link below. If you do not already have a Discord account, you will need to create one to continue.
 
 > [![Join the WinAdmins Chat](images/discord.png)](http://discord.gg/Rz4y7r9)
 
