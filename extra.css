@@ -1,0 +1,24 @@
+h1 {
+	color: Maroon;
+	border-bottom: 3px solid black;
+	padding-bottom: 4px; 
+	margin-bottom: 8px;
+	font-weight: bold;
+}
+
+table {
+	border-collapse: collapse
+}
+
+th {
+	text-align: left;
+	border: 1px solid black;
+	padding: 4px;
+}
+
+td {
+	text-align: left;
+	border: 1px solid black;
+	padding: 4px;
+}
+
