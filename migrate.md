@@ -6,11 +6,9 @@ Beginning in September, 2019, the administrators of WinAdmins will begin a migra
 
 1. Over the weekend of September 14-15, 2019, a bridge will be setup between the WinAdmins Slack and Discord environments so that messages sent in either environment will be relayed to the other.  We hope this will ensure a smoother transition.
 
-1. Beginning September 23, 2019, most of the Slack public channels will change to announcement mode, where only moderators and administrators will be able to send messages.  The bridge will be disabled.
-
-1. In late October, 2019, on a date still to be determined, the Slack will be disabled for all non-administrators.
-
 1. While some channels might see a slight rename, all public channels will migrate to Discord.
+
+1. We plan to keep the Discord-Slack bridge operational and are open to bridging to other platforms 
 
 ## Why migrate?
 
